@@ -76,3 +76,5 @@ Bu çalışma, sürdürülebilirlik ve çevresel etki farkındalığını artır
 ## 📌 Not
 
 Bu analizde kullanılan veriler sentetik olarak oluşturulmuştur ve gerçek Inditex ürünlerine ait verileri temsil etmez. Çalışma yalnızca akademik ve öğrenim amaçlıdır.
+
+![Carbon Footprint Project](Carbon_footprint_image.jpg)
